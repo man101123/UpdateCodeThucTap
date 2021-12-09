@@ -1,0 +1,40 @@
+@import '~antd/dist/antd.css';
+
+.bgGSM{
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    border-radius: 50px 50px 50px 50px;
+    background: #F0F8FF;
+    box-shadow: inset 100px -100px 100px rgba(185, 188, 191, 0.123), inset -100px 100px 100px rgba(255, 255, 255, 0.123);
+    backdrop-filter: blur(600px);
+}
+
+.TitleTable {
+    color: #1085C5;
+}
+
+.TitleSTT{
+    color: #1085C5;
+
+}
+
+.bgTableGSMFix{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+
+    position: absolute;
+    width: 1500px;
+    height: 710px;
+    left: 347px;
+    top: 700px;
+
+    /* White */
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}

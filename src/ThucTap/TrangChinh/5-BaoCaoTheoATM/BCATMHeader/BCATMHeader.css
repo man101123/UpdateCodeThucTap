@@ -1,0 +1,406 @@
+.BaoCaoHD{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+    position: absolute;
+    top:56px;
+    left:347px;
+    width:64px;
+}
+
+.SuyRa{
+    position: absolute;
+    top:56px;
+    left:420px;
+}
+
+.BCTPGD1{
+    position: absolute;
+    top:50px;
+    left:450px;
+    width: 212px;
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.TitleDVQLFix2{
+    position: absolute;
+    width: 114px;
+    height: 20px;
+    left: 347px;
+    top: 90px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.asd{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 347px;
+    top: 110px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.WriteNDVQl1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+}
+
+.TitleLCBFix5{
+    position: absolute;
+    width: 114px;
+    height: 20px;
+    left: 600px;
+    top: 90px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.asdFix2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+
+    position: absolute;
+    width: 340px;
+    height: 44px;
+    left: 600px;
+    top: 110px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.IconFixLanThu38{
+    position: absolute;
+    left:310px;
+    top: 10px;
+}
+
+.TC111{
+    color:  #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.TitleTTFix28{
+    position: absolute;
+    width: 83px;
+    height: 20px;
+    left: 960px;
+    top: 90px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.asdFix5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 960px;
+    top: 110px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.TC291{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.dd221{
+   position: absolute;
+   top:10px;
+   left:175px; 
+}
+
+.Thoigian221{
+    position: absolute;
+    width: 76px;
+    height: 20px;
+    left: 1190px;
+    top: 90px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.Boxxtime1{
+    position: absolute;
+    top:115px;
+    left:1190px;
+}
+
+.TT101{
+    position: absolute;
+    top:10px;
+    left:5px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.btnTimFix87{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+
+    position: absolute;
+    width: 82px;
+    height: 44px;
+    left: 1351px;
+    top: 110px;
+
+    /* Blue/5 */
+
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnXFEFix36{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+
+    position: absolute;
+    width: 168px;
+    height: 44px;
+    left: 1720px;
+    top: 110px;
+
+    /* Blue/5 */
+
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnxuatfile{
+    position: static;
+    width: 110px;
+    height: 20px;
+    left: calc(50% - 110px/2);
+    top: calc(50% - 20px/2);
+
+    /* 16 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Text/White */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.btntim{
+    position: static;
+    width: 30px;
+    height: 20px;
+    left: calc(50% - 30px/2);
+    top: calc(50% - 20px/2);
+
+    /* 16 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Text/White */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.FixDTPK2{
+    width: 150px;
+}

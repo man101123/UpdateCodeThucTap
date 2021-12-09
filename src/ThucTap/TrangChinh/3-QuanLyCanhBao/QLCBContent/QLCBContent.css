@@ -1,0 +1,82 @@
+@import '~antd/dist/antd.css';
+
+.bgTableQLCB{
+    position: absolute;
+    width: 1541px;
+    height: 543px;
+    left: 347px;
+    top: 250px;
+    border-radius: 50px 50px 50px 50px;
+    background: #F0F8FF;
+    box-shadow: inset 100px -100px 100px rgba(185, 188, 191, 0.123), inset -100px 100px 100px rgba(255, 255, 255, 0.123);
+    backdrop-filter: blur(600px);
+}
+
+.TitleTableQLCB{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/5 */
+
+    color: #2190CD;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.GSMID{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+    text-decoration-line: underline;
+
+    /* Blue/6 */
+
+    color: #1085C5;
+}
+
+.bgQLCBFix{
+    position: absolute;
+    width: 1541px;
+    height: 543px;
+    left: 347px;
+    top: 250px;
+}
+
+.Test1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+
+    position: absolute;
+    width: 1541px;
+    height: 798px;
+    left: 347px;
+    top: 234px;
+
+    /* White */
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}

@@ -1,0 +1,251 @@
+.TitleQLHT{
+    /* 16 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 4px;
+
+    color: #ACBCD1;
+    position: absolute;
+    top:96px;
+    left:347px;
+    width: 134px;
+}
+
+.IconSuyRa{
+    position: absolute;
+    top:99px;
+    left:480px;
+}
+
+.TitleQTC{
+    position: absolute;
+    top:90px;
+    left:500px;
+    width: 178px;
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.TitleQTC2{
+    position: absolute;
+    width: 121px;
+    height: 20px;
+    left: 347px;
+    top: 154px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.bgNQTC{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+
+    position: absolute;
+    width: 230px;
+    height: 44px;
+    left: 347px;
+    top: 182px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.WriteNQTC{
+    position: static;
+    width: 136px;
+    height: 20px;
+    left: 16px;
+    top: 11px;
+
+    /* Text/14 regular */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.bgbtnTim{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+
+    position: absolute;
+    width: 82px;
+    height: 44px;
+    left: 593px;
+    top: 181px;
+
+    /* Blue/5 */
+
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnTim{
+    position: static;
+    width: 30px;
+    height: 20px;
+    left: calc(50% - 30px/2);
+    top: calc(50% - 20px/2);
+
+    /* 16 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Text/White */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.bgbtnADD{
+    position: static;
+    width: 68px;
+    height: 20px;
+    left: calc(50% - 68px/2 + 16px);
+    top: calc(50% - 20px/2);
+
+    /* 14 Extra bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.002em;
+
+    /* White */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.btnADD{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+
+    position: absolute;
+    width: 138px;
+    height: 44px;
+    left: 1750px;
+    top: 182px;
+
+    /* Blue/5 */
+
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+

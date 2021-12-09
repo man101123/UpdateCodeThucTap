@@ -1,0 +1,17 @@
+.map{
+position: absolute;
+width: 1541px;
+height: 491px;
+left: 347px;
+top: 198px;
+overflow: scroll;
+
+/* White */
+
+background: #FFFFFF;
+/* Blue/2 */
+
+border: 2px solid #ACD5EC;
+box-sizing: border-box;
+border-radius: 24px;
+}

@@ -1,0 +1,541 @@
+.TitleQLHT-QLTBGSM{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+    position: absolute;
+    top:56px;
+    left:347px;
+    width: 134px;
+}
+
+.IconSuyRaQLTBGSM{
+    position: absolute;
+    top:59px;
+    left:480px;
+}
+
+.TitleFix1001{
+    position: static;
+    width: 257px;
+    height: 30px;
+    left: 168px;
+    top: 2px;
+
+    /* 24 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 4px;
+}
+
+.DVQL{
+    position: absolute;
+    width: 116px;
+    height: 20px;
+    left: 347px;
+    top: 154px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.NDVQL1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 347px;
+    top: 182px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.WriteNDVQl1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+}
+
+.LCB51{
+    position: absolute;
+    width: 176px;
+    height: 20px;
+    left: 563px;
+    top: 155px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.TC81{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 563px;
+    top: 182px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.dd1{
+    position: absolute;
+    left: 170px;
+    top: 10px;
+}
+
+.TC111{
+    color:  #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.TT181{
+    position: absolute;
+    width: 110px;
+    height: 20px;
+    left: 779px;
+    top: 155px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.TC301{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 779px;
+    top: 182px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.TC291{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.dd221{
+   position: absolute;
+   top:10px;
+   left:175px; 
+}
+
+.Thoigian221{
+    position: absolute;
+    width: 76px;
+    height: 20px;
+    left: 1190px;
+    top: 90px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.Boxxtime1{
+    position: absolute;
+    top:115px;
+    left:1190px;
+}
+
+.TT101{
+    position: absolute;
+    top:10px;
+    left:5px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.btnlogin15{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+
+    position: absolute;
+    width: 82px;
+    height: 44px;
+    left: 1427px;
+    top: 182px;
+
+    /* Blue/5 */
+
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnlogin16{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+
+    position: absolute;
+    width: 138px;
+    height: 44px;
+    left: 1750px;
+    top: 182px;
+
+    /* Blue/5 */
+
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnxuatfile{
+    position: static;
+    width: 110px;
+    height: 20px;
+    left: calc(50% - 110px/2);
+    top: calc(50% - 20px/2);
+
+    /* 16 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Text/White */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.btntim{
+    position: static;
+    width: 30px;
+    height: 20px;
+    left: calc(50% - 30px/2);
+    top: calc(50% - 20px/2);
+
+    /* 16 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Text/White */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.FixDTPK2{
+    width: 150px;
+}
+
+.TitleKNM{
+    position: absolute;
+    width: 106px;
+    height: 20px;
+    left: 995px;
+    top: 155px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.bgKNM{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 995px;
+    top: 182px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.TitleCBFix4{
+    position: absolute;
+    width: 78px;
+    height: 20px;
+    left: 1211px;
+    top: 155px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.bgCBFix4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 1211px;
+    top: 182px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.TitleQLTBGSM5{
+    position: absolute;
+    top:50px;
+    left:497px;
+    width: 257px;
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 4px;
+}

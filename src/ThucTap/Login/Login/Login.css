@@ -1,0 +1,463 @@
+@import '~antd/dist/antd.css';
+
+.Login {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+  border-radius: 50px 50px 50px 50px;
+  background: #F0F8FF;
+  box-shadow: inset 100px -100px 100px rgba(185, 188, 191, 0.123), inset -100px 100px 100px rgba(255, 255, 255, 0.123);
+  backdrop-filter: blur(600px);
+}
+
+.IconYT {
+  width: 75px;
+  height: 75px;
+  background: #FF2D55;
+  border-radius: 40px 40px 40px 40px;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.Logo {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.Background {
+    position: absolute;
+    width: 1542px;
+    height: 800px;
+    left: 189px;
+    top: 140px;
+    display: flex;
+    background: white;
+    border-radius: 32px;
+}
+
+.Left {
+    flex: 5;
+    width: 776px;
+    height: 752px;
+    left: 24px;
+    top: 24px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.BackgroundATM {
+    width: 770px;
+    height: 752px;
+    margin-bottom: 35%;
+    margin-right: 50px;
+    position: relative;
+    background: conic-gradient(from 76.92deg at 50% 50%, #C5FFFB -73.21deg, #E4E9FE 2.5deg, #A9D7FF 81.36deg, #89DCFF 143.29deg, #A9C6FF 207.16deg, #C5FFFB 286.79deg, #E4E9FE 362.5deg);
+    opacity: 0.5;
+    border-radius: 18px;
+}
+
+.ATM {
+    margin-top: 10%;
+    margin-left: 16%;
+    height: 595px;
+    position: absolute;
+    z-index: 1;
+}
+
+.Bong {
+    position: absolute;
+    z-index: 0;
+    margin-top: 34.5%;
+    opacity: 0.9;
+}
+
+.Hinh1 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 3%;
+    margin-left: 30px;
+}
+
+.Hinh2 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 15%;
+    margin-left: 43%;
+}
+
+.Hinh3 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 35%;
+    margin-left: 30%;
+}
+
+.Right {
+    flex:5;
+}
+
+.TitleLogin {
+    position: absolute;
+    width: 218px;
+    height: 60px;
+    left: 1019px;
+    top: 120px;
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 50px;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+}
+
+.TenDangNhap {
+    position: absolute;
+    left: 1019px;
+    top: 220px;
+    width: 115px;
+    height: 20px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.6;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 8px 0px;
+}
+
+.unamelogin {
+    position: absolute;
+    left: 1019px;
+    top: 250px;
+
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #347AFF;
+    box-sizing: border-box;
+    backdrop-filter: blur(100px);
+    width: 356px;
+    height: 48px;
+    margin-top: 5px;
+    
+}
+
+.MatKhau {
+    position: absolute;
+    width: 72px;
+    height: 20px;
+    left: 1019px;
+    top: 312px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.6;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 8px 0px;
+}
+
+.upassword {
+    position: absolute;
+    left: 1019px;
+    top: 343px;
+
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #347AFF;
+    box-sizing: border-box;
+    backdrop-filter: blur(100px);
+    width: 356px;
+    height: 48px;
+    margin-top: 5px;
+}
+
+.bgCheckBox{
+    position: absolute;
+    width: 194px;
+    height: 24px;
+    left: 1029px;
+    top: 404px;
+}
+
+.TitleGNDN{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.checkpass {
+    border: 1.5px solid #2190CD;
+    box-sizing: border-box;
+    align-items: left;
+}
+
+.savepass {
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin-right: 25%;
+    color: #091F3A;
+    opacity: 0.8;
+}
+
+.btnlogin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 32px;
+    position: absolute;
+    width: 163px;
+    height: 55px;
+    left: 1116px;
+    top: 476px;
+    background: #2190CD;
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btntennutlogin {
+    position: static;
+    width: 99px;
+    height: 23px;
+    left: calc(50% - 99px/2);
+    top: calc(50% - 23px/2);
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.QuenMK {
+    font-family: Mulish;
+    font-style: normal;
+    color: #1085C5;
+    position: absolute;
+    z-index: 2;
+    margin-top: 20%;
+    margin-left: 22%;
+}
+
+.hidepass {
+    position: absolute;
+    right: 200px;
+    transform: translate(0, 50%);
+    top: 345px;
+    cursor: pointer;
+}
+
+.quenmatkhau {
+    /* Quên mật khẩu? */
+
+
+position: absolute;
+width: 123px;
+height: 24px;
+left: 1136px;
+top: 736px;
+
+/* 16 regular underline */
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+
+/* Blue/6 */
+
+color: #1085C5;
+
+opacity: 0.7;
+}
+
+.TitlebtnDN{
+    position: static;
+    width: 99px;
+    height: 23px;
+    left: calc(50% - 99px/2);
+    top: calc(50% - 23px/2);
+
+    /* 18 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Text/White */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.Contentleft {
+    flex: 5;
+    width: 776px;
+    height: 752px;
+    left: 24px;
+    top: 24px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.atm {
+    margin-top: 10%;
+    margin-left: 16%;
+    height: 595px;
+    position: absolute;
+    z-index: 1;
+}
+
+.bongatm {
+    position: absolute;
+    z-index: 0;
+    margin-top: 34.5%;
+    opacity: 0.9;
+}
+
+.f1 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 3%;
+    margin-left: 30px;
+}
+
+.f2 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 15%;
+    margin-left: 43%;
+}
+
+.f3 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 35%;
+    margin-left: 30%;
+}
+
+.bg_ATM {
+    width: 770px;
+    height: 752px;
+    margin-bottom: 35%;
+    margin-right: 50px;
+    position: relative;
+    background: conic-gradient(from 76.92deg at 50% 50%, #C5FFFB -73.21deg, #E4E9FE 2.5deg, #A9D7FF 81.36deg, #89DCFF 143.29deg, #A9C6FF 207.16deg, #C5FFFB 286.79deg, #E4E9FE 362.5deg);
+    opacity: 0.5;
+    border-radius: 18px;
+}
+
+.bgbtnDangnhap{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 32px;
+
+    position: absolute;
+    width: 163px;
+    height: 55px;
+    left: 1116px;
+    top: 476px;
+
+    /* Blue/5 */
+
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}

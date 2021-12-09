@@ -1,0 +1,404 @@
+.TitleQLCB{
+    position: absolute;
+    top:65px;
+    left:347px;
+    width: 206px;
+    height: 30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+}
+
+.TitleGSM{
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 347px;
+    top: 130px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.NGSMID{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 347px;
+    top: 158px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.WriteGSMID{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+    position: static;
+    width: 49px;
+    height: 20px;
+    left: 16px;
+    top: 11px;
+}
+
+.TitleKhuvuc{
+    position: absolute;
+    width: 65px;
+    height: 20px;
+    left: 563px;
+    top: 130px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.NDC{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+
+    position: absolute;
+    width: 436px;
+    height: 44px;
+    left: 563px;
+    top: 158px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.WriteNDC{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+    position: static;
+    width: 82px;
+    height: 20px;
+    left: 16px;
+    top: 11px;
+}
+
+.TitleLCB{
+    position: absolute;
+    width: 190.4px;
+    height: 20px;
+    left: 1015px;
+    top: 132px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.bgTatCa{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+
+    position: absolute;
+    width: 340px;
+    height: 44px;
+    left: 1015px;
+    top: 158px;
+
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.TitleTatCa{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+    position: static;
+    width: 82px;
+    height: 20px;
+    left: 16px;
+    top: 11px;
+}
+
+.TitleTT{
+    position: absolute;
+    width: 83px;
+    height: 20px;
+    left: 1371px;
+    top: 132px;
+
+    /* 16 Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.bgTatCa2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 24px 13px 16px;
+
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 1371px;
+    top: 158px;
+
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.TitleThoiGianLeft{
+    position: absolute;
+    width: 76px;
+    height: 20px;
+    left: 1587px;
+    top: 131px;
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.LocationTGLeft{
+    position: absolute;
+    left: 1587px;
+    top: 158px; 
+}
+
+.TitleTuNgayDenNgay{
+    position: absolute;
+    top:10px;
+    left:5px;
+    width:180px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Blue/8 */
+
+    color: #091F3A;
+    opacity: 0.4;
+
+}
+
+.IconKinhlup{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.IconDown{
+    position: absolute;
+    right: 10px;
+}
+
+.IconDown2{
+    position: absolute;
+    right: 10px;
+}
+
+.btnbgTim{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+
+    position: absolute;
+    width: 82px;
+    height: 44px;
+    left: 1803px;
+    top: 158px;
+
+    /* Blue/5 */
+
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnTim{
+    position: static;
+    width: 30px;
+    height: 20px;
+    left: calc(50% - 30px/2);
+    top: calc(50% - 20px/2);
+
+    /* 16 Extra Bold */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Text/White */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.DatePickerFix{
+    width:150px;
+}

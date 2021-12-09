@@ -1,0 +1,44 @@
+@import '~antd/dist/antd.css';
+
+
+.TitleALContent{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/6 */
+
+    color: #1085C5;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.bgTableALContentFix{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+
+    position: absolute;
+    width: 1541px;
+    height: 880px;
+    left: 347px;
+    top: 258px;
+    /* White */
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}
